@@ -1,4 +1,4 @@
-# [Your Name] - Data Analysis Portfolio
+# Hamzat Oyindamola - Data Analysis Portfolio
 
 Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
@@ -15,21 +15,21 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+*Cleaned a dataset and created an excel report a dashboard sheet an a powerpoint report to highlight findings conclusions and recommendations, Excel for data cleaning analysis and visualization, Improved data organisation and clearer presentation of key performance indicators.*
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+*Worked on an e-commerce databasefile and write queries to analyse a chain of e-commerce data, SQL for data management, Efficiently structured database management enabling seamless data retrieval and integrity for complex e-commerce operations.*
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+*	Built a Coca-Cola Sales Report dashboard integrating multiple datasets (brand, location, retailer) Developed a star schema model connecting dimension tables (brand, location, retailer) to a central facts table,Used DAX and Power BI visuals, and Delivered actionable insights through interactive charts and filters for business intelligence reporting.*
 
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
+- **Data Visualization**: Power BI.
+- **Data Analysis**: SQL,Python,Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
 - **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
 
