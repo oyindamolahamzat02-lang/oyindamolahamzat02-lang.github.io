@@ -21,7 +21,7 @@ This template is set up to showcase your best work. You can easily customize the
 *Worked on an e-commerce databasefile and write queries to analyse a chain of e-commerce data, SQL for data management, Efficiently structured database management enabling seamless data retrieval and integrity for complex e-commerce operations.*
 
 ### Project Title Three
-*	Built a Coca-Cola Sales Report dashboard integrating multiple datasets (brand, location, retailer) Developed a star schema model connecting dimension tables (brand, location, retailer) to a central facts table,Used DAX and Power BI visuals, and Delivered actionable insights through interactive charts and filters for business intelligence reporting.*
+*Built a Coca-Cola Sales Report dashboard integrating multiple datasets (brand, location, retailer) Developed a star schema model connecting dimension tables (brand, location, retailer) to a central facts table,Used DAX and Power BI visuals, and Delivered actionable insights through interactive charts and filters for business intelligence reporting.*
 
 
 ## 🛠️ Skills
